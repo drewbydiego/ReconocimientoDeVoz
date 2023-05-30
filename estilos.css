@@ -149,11 +149,24 @@ h1{
         font-size: 1.8rem;
     }
     h1{
-        font-size: 1.8rem;}
+        font-size: 1.5rem;}
         .container{
             width: 72vw;
             height: 100vh;
         }
+}
+@media screen and (max-width: 840px) {
+
+    h1{
+        font-size: 1.8rem;}
+
+}
+
+@media screen and (max-width: 417px) {
+
+    h1{
+        font-size: 1.2rem;}
+
 }
 @media screen and (min-width: 509px) {
     .container{
