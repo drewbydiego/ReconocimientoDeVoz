@@ -69,6 +69,3 @@ function iniciar(event) {
     }
 }
 rec.start();*/
-window.addEventListener('load',()=>{
-    alert('Debes utilzar Microsoft Chrome como navegador para poder utilizar la aplicacion');
-});
